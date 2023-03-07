@@ -1,27 +1,27 @@
 [
   {
-    brand: "Shell",
-    items: [
+    "brand": "Shell",
+    "items": [
       {
-        name: "Shell HX7 5w30 4л",
-        code: "maslo-5w30-shell-helix-hx7-psint--550046351-4-0l--sncf-a3b"
+        "name": "Shell HX7 5w30 4л",
+        "code": "maslo-5w30-shell-helix-hx7-psint--550046351-4-0l--sncf-a3b"
       }, {
-        name: "Shell HX7 5w40 4л",
-        code: "maslo-5w40-shell-helix-hx7-psint--550051497-4-0l--snsncf-a"
+        "name": "Shell HX7 5w40 4л",
+        "code": "maslo-5w40-shell-helix-hx7-psint--550051497-4-0l--snsncf-a"
       }, {
-        name: "Shell HX8 5w30 4л",
-        code: "maslo-5w30-shell-helix-hx8-sint--550046364-4-0l--sncf-a3b3"
+        "name": "Shell HX8 5w30 4л",
+        "code": "maslo-5w30-shell-helix-hx8-sint--550046364-4-0l--sncf-a3b3"
       }, {
-        name: "Shell HX8 5w40 4л",
-        code: "maslo-5w40-shell-helix-hx8-sint--550051529-4-0l--snsncf-a3"
+        "name": "Shell HX8 5w40 4л",
+        "code": "maslo-5w40-shell-helix-hx8-sint--550051529-4-0l--snsncf-a3"
       },
     ]
   }, {
-    brand: "Mobil",
-    items: [
+    "brand": "Mobil",
+    "items": [
       {
-        name: "Mobil Super 3000 5W40 X1",
-        code: "maslo-motornoe-sinteticeskoe-152566-mobil-super-3000-h1-5w"
+        "name": "Mobil Super 3000 5W40 X1",
+        "code": "maslo-motornoe-sinteticeskoe-152566-mobil-super-3000-h1-5w"
       }
     ]
   } 
