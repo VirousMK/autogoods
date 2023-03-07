@@ -20,9 +20,17 @@
     "brand": "Mobil",
     "items": [
       {
-        "name": "Mobil Super 3000 5W40 X1",
+        "name": "Mobil Super 3000 5W40 X1 4л",
         "code": "maslo-motornoe-sinteticeskoe-152566-mobil-super-3000-h1-5w"
       }
     ]
-  } 
+  }, {
+    "brand": "Idemitsu",
+    "items": [
+      {
+        "name": "Idemitsu 5w30 4л",
+        "code": "maslo-motornoe-5w30-133370-4l-sngf-5-fully-syntetic-idemitsu"
+      }
+    ]
+  }
 ]
