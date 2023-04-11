@@ -3,17 +3,23 @@
     "brand": "Shell",
     "items": [
       {
+        "name": "Shell HX8 5w30 4л",
+        "code": "maslo-5w30-shell-helix-hx8-sint--550046364-4-0l--sncf-a3b3"
+      }, {
+        "name": "Shell HX8 5w40 1л",
+        "code": "maslo-5w40-shell-helix-hx8-sint-550046368-1l-snsncf-a3b3b4"
+      }, {
+        "name": "Shell HX8 5w40 4л",
+        "code": "maslo-5w40-shell-helix-hx8-sint--550051529-4-0l--snsncf-a3"
+      }, {
+        "name": "Shell HX7 5w30 1л",
+        "code": "maslo-5w30-shell-helix-hx7-psint--550046376-1-0l--sncf-a3b"
+      }, {
         "name": "Shell HX7 5w30 4л",
         "code": "maslo-5w30-shell-helix-hx7-psint--550046351-4-0l--sncf-a3b"
       }, {
         "name": "Shell HX7 5w40 4л",
         "code": "maslo-5w40-shell-helix-hx7-psint--550051497-4-0l--snsncf-a"
-      }, {
-        "name": "Shell HX8 5w30 4л",
-        "code": "maslo-5w30-shell-helix-hx8-sint--550046364-4-0l--sncf-a3b3"
-      }, {
-        "name": "Shell HX8 5w40 4л",
-        "code": "maslo-5w40-shell-helix-hx8-sint--550051529-4-0l--snsncf-a3"
       }
     ]
   }, {
